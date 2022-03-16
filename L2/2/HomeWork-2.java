@@ -9,7 +9,7 @@ public class Main {
         System.out.print("Enter text: ");
         String myString = input.next();
         System.out.println("Text entered = " + myString);
-        if (myString == "BarnameSaziPishrafte") ;
+        if (myString == "BarnameNevisiPishrafte") ;
         {
             System.out.println("Pishniaz = Mabani Barname nevisi\nTedad Vahed = 3\nHamniaz = Kargah Computer");
         }
